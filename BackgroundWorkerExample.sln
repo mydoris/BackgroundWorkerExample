@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BackgroundWorkerExample", "BackgroundWorkerExample\BackgroundWorkerExample.csproj", "{BC2DEE12-295A-4449-BC9F-BFAD38DC05A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeConsumingOperation", "TimeConsumingOperation\TimeConsumingOperation.csproj", "{E3478AE2-2DAE-495D-8C70-B8FC2D40090D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Download a File in the Background", "Download a File in the Background\Download a File in the Background.csproj", "{AE207C1C-7741-4E05-A033-B6A0156B11D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC2DEE12-295A-4449-BC9F-BFAD38DC05A5}.Debug|x86.ActiveCfg = Debug|x86
+		{BC2DEE12-295A-4449-BC9F-BFAD38DC05A5}.Debug|x86.Build.0 = Debug|x86
+		{BC2DEE12-295A-4449-BC9F-BFAD38DC05A5}.Release|x86.ActiveCfg = Release|x86
+		{BC2DEE12-295A-4449-BC9F-BFAD38DC05A5}.Release|x86.Build.0 = Release|x86
+		{E3478AE2-2DAE-495D-8C70-B8FC2D40090D}.Debug|x86.ActiveCfg = Debug|x86
+		{E3478AE2-2DAE-495D-8C70-B8FC2D40090D}.Debug|x86.Build.0 = Debug|x86
+		{E3478AE2-2DAE-495D-8C70-B8FC2D40090D}.Release|x86.ActiveCfg = Release|x86
+		{E3478AE2-2DAE-495D-8C70-B8FC2D40090D}.Release|x86.Build.0 = Release|x86
+		{AE207C1C-7741-4E05-A033-B6A0156B11D6}.Debug|x86.ActiveCfg = Debug|x86
+		{AE207C1C-7741-4E05-A033-B6A0156B11D6}.Debug|x86.Build.0 = Debug|x86
+		{AE207C1C-7741-4E05-A033-B6A0156B11D6}.Release|x86.ActiveCfg = Release|x86
+		{AE207C1C-7741-4E05-A033-B6A0156B11D6}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
